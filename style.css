@@ -1,0 +1,33 @@
+body
+{
+  color: white;
+  background: #4c00ff;
+  
+}
+span
+{
+  font-size: 30px;
+}
+#cam , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#r_em_n ,#r_em_n2  
+{
+  color: black;
+}
+.em_n
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
